@@ -50,8 +50,12 @@ MEDIA QUERIES
 @media screen and (min-width: 20em) { 
 
   /* Diagnostic Styling. */
+    header {
+       font-size: 1.5em; 
+    }
+    
   body {
-       background: red;
+       background: #031316;
   }
   
 }
@@ -60,8 +64,12 @@ MEDIA QUERIES
 @media screen and (min-width: 48em)  {
 
   /* Diagnostic Styling. */
+  header {
+       font-size: 2.5em; 
+    }
+    
   body {
-       background: green;
+       background: #031316;
   }
 
 }
@@ -70,8 +78,12 @@ MEDIA QUERIES
 @media screen and (min-width: 80em) { 
   
   /* Diagnostic Styling. */
+    header {
+       font-size: 2.5em; 
+    }
+    
   body {
-       background: blue;
+       background: #031316;
   }
 
 }
