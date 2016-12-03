@@ -1,6 +1,10 @@
 /********************
 YOUR STYLES
 *******************/
+.header-title-style-1 {
+    background-image: linear-gradient(to bottom right, 
+      rgba( 220, 128, 50, 0.5), rgba(30, 100, 128, 0.7)), url(https://unsplash.it/2000/800/);
+}
 
 
 /* Header */
